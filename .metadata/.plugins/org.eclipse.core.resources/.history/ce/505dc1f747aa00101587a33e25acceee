@@ -1,0 +1,8 @@
+package com.main;
+
+public class Snippet {
+	public static void main(String[] args) {
+		SpringAiEx1Application
+	}
+}
+
